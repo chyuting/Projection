@@ -1,7 +1,7 @@
 # Projection
 -----------------------
 Yuting: 05/24/2019
-yuting.chen@isza.com
+chyuting@umich.edu
 -----------------------
 
 Python3 code Projection on subspace.ipynb.
@@ -18,7 +18,7 @@ Flow of the code:
 
 -----------------------
 Yuting: 06/03/2019
-yuting.chen@isza.com
+chyuting@umich.edu
 -----------------------
 
 Python3 code Projection on subspace_sparse svd.ipynb.
